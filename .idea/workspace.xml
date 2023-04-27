@@ -6,7 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="c11da279-2b04-46d0-8cc5-2afb6d446771" name="変更" comment="Merge remote-tracking branch 'origin/main'">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/時間割.md" beforeDir="false" afterPath="$PROJECT_DIR$/時間割.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/一般科目/HR.md" beforeDir="false" afterPath="$PROJECT_DIR$/一般科目/HR.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/一般科目/ダイバーシティと人権.md" beforeDir="false" afterPath="$PROJECT_DIR$/一般科目/ダイバーシティと人権.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/一般科目/基礎数学A.md" beforeDir="false" afterPath="$PROJECT_DIR$/一般科目/基礎数学A.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/専門科目/総合工学システム実験実習.md" beforeDir="false" afterPath="$PROJECT_DIR$/専門科目/総合工学システム実験実習.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/専門科目/総合工学システム概論.md" beforeDir="false" afterPath="$PROJECT_DIR$/専門科目/総合工学システム概論.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +41,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -52,7 +56,7 @@
       <workItem from="1682516184180" duration="170000" />
       <workItem from="1682567551803" duration="1003000" />
       <workItem from="1682574279829" duration="5028000" />
-      <workItem from="1682586040307" duration="388000" />
+      <workItem from="1682586040307" duration="3908000" />
     </task>
     <task id="LOCAL-00001" summary="WebStormでの編集">
       <created>1682567963032</created>
@@ -159,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682585732402</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Merge remote-tracking branch 'origin/main'">
+      <created>1682586553814</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1682586553814</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
