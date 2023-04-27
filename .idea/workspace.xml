@@ -6,25 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c11da279-2b04-46d0-8cc5-2afb6d446771" name="変更" comment="Merge remote-tracking branch 'origin/main'">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/一般科目/HR.md" beforeDir="false" afterPath="$PROJECT_DIR$/general/HR.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/一般科目/ダイバーシティと人権.md" beforeDir="false" afterPath="$PROJECT_DIR$/general/diversity.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/一般科目/保健体育1.md" beforeDir="false" afterPath="$PROJECT_DIR$/general/pe1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/一般科目/化学1.md" beforeDir="false" afterPath="$PROJECT_DIR$/general/chemistry1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/一般科目/国語1.md" beforeDir="false" afterPath="$PROJECT_DIR$/general/japanese1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/一般科目/基礎数学A.md" beforeDir="false" afterPath="$PROJECT_DIR$/general/basic_math_a.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/一般科目/基礎数学C.md" beforeDir="false" afterPath="$PROJECT_DIR$/general/basic_math_c.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/一般科目/基礎物理1.md" beforeDir="false" afterPath="$PROJECT_DIR$/general/physics1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/一般科目/社会1.md" beforeDir="false" afterPath="$PROJECT_DIR$/general/social1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/一般科目/芸術選択/書道.md" beforeDir="false" afterPath="$PROJECT_DIR$/general/芸術選択/calligraphy.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/一般科目/芸術選択/美術.md" beforeDir="false" afterPath="$PROJECT_DIR$/general/芸術選択/fine_art.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/一般科目/芸術選択/音楽.md" beforeDir="false" afterPath="$PROJECT_DIR$/general/芸術選択/music.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/一般科目/英語1.md" beforeDir="false" afterPath="$PROJECT_DIR$/general/english1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/一般科目/英語表現1.md" beforeDir="false" afterPath="$PROJECT_DIR$/general/english_expression1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/専門科目/総合工学システム実験実習.md" beforeDir="false" afterPath="$PROJECT_DIR$/専門科目/practice.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/専門科目/総合工学システム概論.md" beforeDir="false" afterPath="$PROJECT_DIR$/専門科目/intro.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/時間割.md" beforeDir="false" afterPath="$PROJECT_DIR$/timetable.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +62,7 @@
       <workItem from="1682574279829" duration="5028000" />
       <workItem from="1682586040307" duration="3936000" />
       <workItem from="1682595385802" duration="7131000" />
-      <workItem from="1682603932274" duration="2505000" />
+      <workItem from="1682603932274" duration="3227000" />
     </task>
     <task id="LOCAL-00001" summary="WebStormでの編集">
       <created>1682567963032</created>
@@ -237,7 +218,21 @@
       <option name="project" value="LOCAL" />
       <updated>1682605425563</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Merge remote-tracking branch 'origin/main'">
+      <created>1682606575788</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1682606575788</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Merge remote-tracking branch 'origin/main'">
+      <created>1682606769582</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1682606769582</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
