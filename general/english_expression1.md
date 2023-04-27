@@ -15,5 +15,5 @@
 # 連絡
 
 # 関連科目
-[英語1](english1.md)  
-[**時間割に戻る**](../timetable.md)
+[英語1](english1)  
+[**時間割に戻る**](../timetable)

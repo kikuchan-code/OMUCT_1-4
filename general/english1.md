@@ -14,6 +14,6 @@
 # 連絡
 
 # 関連科目
-[英語表現1](english_expression1.md)  
+[英語表現1](english_expression1)  
 
-[**時間割に戻る**](../timetable.md)
+[**時間割に戻る**](../timetable)

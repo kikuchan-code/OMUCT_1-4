@@ -12,6 +12,6 @@
 # 連絡
 
 # 関連科目
-[基礎数学A](basic_math_a.md)  
+[基礎数学A](basic_math_a)  
 
-[**時間割に戻る**](../timetable.md)
+[**時間割に戻る**](../timetable)
