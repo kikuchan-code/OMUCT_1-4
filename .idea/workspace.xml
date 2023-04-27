@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="c11da279-2b04-46d0-8cc5-2afb6d446771" name="変更" comment="WebStormでの編集">
-      <change beforePath="$PROJECT_DIR$/時間割.md" beforeDir="false" afterPath="$PROJECT_DIR$/時間割.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/一般科目/英語1.md" beforeDir="false" afterPath="$PROJECT_DIR$/一般科目/英語1.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +48,7 @@
       <option name="presentableId" value="Default" />
       <updated>1682516180857</updated>
       <workItem from="1682516184180" duration="170000" />
-      <workItem from="1682567551803" duration="589000" />
+      <workItem from="1682567551803" duration="1003000" />
     </task>
     <task id="LOCAL-00001" summary="WebStormでの編集">
       <created>1682567963032</created>
@@ -54,7 +57,21 @@
       <option name="project" value="LOCAL" />
       <updated>1682567963032</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="WebStormでの編集">
+      <created>1682568154990</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682568154990</updated>
+    </task>
+    <task id="LOCAL-00003" summary="WebStormでの編集">
+      <created>1682568169745</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1682568169745</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
