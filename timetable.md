@@ -6,3 +6,4 @@
 | 7-8 |                                    |      [保健体育1](general/pe1.md)      |           [HR](general/HR.md)           |                          |                                                                         |
 
 [**READMEへ**](README.md)
+[**HPへ**](https://haru-0205.github.io/OMUCT_1-4_Timetable/)
