@@ -1,3 +1,7 @@
 html{
     font-family: "Noto Sans", system-ui;
 }
+.subject{
+    font-size: 40px;
+    color: navy;
+}
