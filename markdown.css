@@ -150,20 +150,6 @@ h1 {
 	font-weight: normal;
 }
 
-table {
-	border-collapse: collapse;
-	margin-bottom: 0.7em;
-}
-
-th {
-	text-align: left;
-	border-bottom: 1px solid;
-}
-
-th,
-td {
-	padding: 5px 10px;
-}
 
 table > tbody > tr + tr > td {
 	border-top: 1px solid;
