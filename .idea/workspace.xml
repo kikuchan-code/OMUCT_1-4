@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c11da279-2b04-46d0-8cc5-2afb6d446771" name="変更" comment="Merge remote-tracking branch 'origin/main'" />
+    <list default="true" id="c11da279-2b04-46d0-8cc5-2afb6d446771" name="変更" comment="Merge remote-tracking branch 'origin/main'">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +20,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
@@ -35,15 +42,17 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/haru/ダウンロード/ja.231.282.zip&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.CommitDialog&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -61,6 +70,12 @@
       <workItem from="1682586040307" duration="3936000" />
       <workItem from="1682595385802" duration="7131000" />
       <workItem from="1682603932274" duration="4244000" />
+      <workItem from="1683070419633" duration="138000" />
+      <workItem from="1683070593589" duration="168000" />
+      <workItem from="1683070886200" duration="74000" />
+      <workItem from="1683070968510" duration="2947000" />
+      <workItem from="1683109021182" duration="2617000" />
+      <workItem from="1683112101085" duration="29000" />
     </task>
     <task id="LOCAL-00001" summary="WebStormでの編集">
       <created>1682567963032</created>
@@ -244,7 +259,112 @@
       <option name="project" value="LOCAL" />
       <updated>1682608941010</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Merge remote-tracking branch 'origin/main'">
+      <created>1683072749323</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1683072749323</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Merge remote-tracking branch 'origin/main'">
+      <created>1683080360052</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1683080360052</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Merge remote-tracking branch 'origin/main'">
+      <created>1683080625726</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1683080625726</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Merge remote-tracking branch 'origin/main'">
+      <created>1683081688408</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1683081688408</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Merge remote-tracking branch 'origin/main'">
+      <created>1683110143346</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1683110143346</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Merge remote-tracking branch 'origin/main'">
+      <created>1683110926701</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1683110926701</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Merge remote-tracking branch 'origin/main'">
+      <created>1683111050434</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1683111050434</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Merge remote-tracking branch 'origin/main'">
+      <created>1683111060148</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1683111060148</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Merge remote-tracking branch 'origin/main'">
+      <created>1683111141584</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1683111141584</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Merge remote-tracking branch 'origin/main'">
+      <created>1683111246171</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1683111246171</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Merge remote-tracking branch 'origin/main'">
+      <created>1683111254816</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1683111254816</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Merge remote-tracking branch 'origin/main'">
+      <created>1683111418949</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1683111418949</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Merge remote-tracking branch 'origin/main'">
+      <created>1683111436138</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1683111436138</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Merge remote-tracking branch 'origin/main'">
+      <created>1683111451879</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1683111451879</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Merge remote-tracking branch 'origin/main'">
+      <created>1683111508910</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1683111508910</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

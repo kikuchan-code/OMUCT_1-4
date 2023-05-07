@@ -5,9 +5,9 @@
 
 html, body {
 	font-family: var(--markdown-font-family, -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", system-ui, "Ubuntu", "Droid Sans", sans-serif);
-	font-size: var(--markdown-font-size, 14px);
+	font-size: 14px;
 	padding: 0 26px;
-	line-height: var(--markdown-line-height, 22px);
+	line-height: 22px;
 	word-wrap: break-word;
 }
 
@@ -150,20 +150,6 @@ h1 {
 	font-weight: normal;
 }
 
-table {
-	border-collapse: collapse;
-	margin-bottom: 0.7em;
-}
-
-th {
-	text-align: left;
-	border-bottom: 1px solid;
-}
-
-th,
-td {
-	padding: 5px 10px;
-}
 
 table > tbody > tr + tr > td {
 	border-top: 1px solid;
@@ -194,8 +180,11 @@ pre.hljs code > div {
 }
 
 pre code {
-	color: var(--vscode-editor-foreground);
 	tab-size: 4;
+}
+
+pre code {
+	color: var(--vscode-editor-foreground);
 }
 
 /** Theming */
@@ -206,6 +195,9 @@ pre code {
 
 .vscode-dark pre {
 	background-color: rgba(10, 10, 10, 0.4);
+}
+
+.vscode-high-contrast pre {
 }
 
 .vscode-high-contrast pre {
