@@ -18,6 +18,7 @@ th{
 }
 td{
     border-bottom: 1px solid;
+    border-right: 1px solid;
     border-collapse:collapse;
 }
 table{
@@ -25,4 +26,12 @@ table{
 }
 th,td{
     padding: 5px;
+}
+.title
+{
+    border-right: 1px solid;
+}
+.normal
+{
+    border-bottom: 1px solid;
 }
