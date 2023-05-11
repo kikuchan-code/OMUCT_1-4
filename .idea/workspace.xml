@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea3d4559-08b6-43e2-937f-a6ddb15074ad" name="変更" comment="update some files">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/general/basic_math_a.html" beforeDir="false" afterPath="$PROJECT_DIR$/general/basic_math_a.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/general/english_expression1.html" beforeDir="false" afterPath="$PROJECT_DIR$/general/english_expression1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/specialty/intro.html" beforeDir="false" afterPath="$PROJECT_DIR$/specialty/intro.html" afterDir="false" />
-    </list>
+    <list default="true" id="ea3d4559-08b6-43e2-937f-a6ddb15074ad" name="変更" comment="update some files" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -297,7 +291,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683674404140</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="update some files">
+      <created>1683789606003</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1683789606003</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
