@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea3d4559-08b6-43e2-937f-a6ddb15074ad" name="変更" comment="update some files">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OMUCT_1-4/todo.html" beforeDir="false" afterPath="$PROJECT_DIR$/OMUCT_1-4/todo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/general/basic_math_a.html" beforeDir="false" afterPath="$PROJECT_DIR$/general/basic_math_a.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/general/english_expression1.html" beforeDir="false" afterPath="$PROJECT_DIR$/general/english_expression1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/specialty/intro.html" beforeDir="false" afterPath="$PROJECT_DIR$/specialty/intro.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +31,7 @@
         <entry key="$PROJECT_DIR$/OMUCT_1-4" value="main" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/OMUCT_1-4" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="HighlightingSettingsPerFile">
@@ -102,6 +105,8 @@
       <workItem from="1683551679464" duration="760000" />
       <workItem from="1683588754180" duration="3442000" />
       <workItem from="1683674356297" duration="673000" />
+      <workItem from="1683682170607" duration="606000" />
+      <workItem from="1683690448806" duration="440000" />
     </task>
     <task id="LOCAL-00001" summary="update timetable.html(Fonts)">
       <created>1682698275502</created>
