@@ -33,6 +33,7 @@ CollectAnswer = Answer2;
 // }
 
 document.write(Quiz);
+
 document.write("<br>")
 document.write("1." + Answer1)
 document.write("<br>")
