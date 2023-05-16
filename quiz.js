@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+// <<<<<<< HEAD
+// <<<<<<< HEAD
 // let no=0;
 // for ( var i = 0;i<5;i++ ) {
 //     if (i == 0) {
@@ -36,11 +36,11 @@ CollectAnswer = Answer2;
 
 document.write(Quiz);
 
-=======
+// =======
 
-=======
+// =======
 
->>>>>>> 86508c42b2a74078f82283caa792cc99c68b68ff
+// >>>>>>> 86508c42b2a74078f82283caa792cc99c68b68ff
 Quiz = "H";
 Answer1 = "水素";
 Answer2 = "酸素";
@@ -49,10 +49,10 @@ CollectAnswer = Answer1;
 
 // document.write(Quiz);
 document.getElementById("Q").innerHTML=Quiz;
-<<<<<<< HEAD
->>>>>>> 86508c42b2a74078f82283caa792cc99c68b68ff
-=======
->>>>>>> 86508c42b2a74078f82283caa792cc99c68b68ff
+// <<<<<<< HEAD
+// >>>>>>> 86508c42b2a74078f82283caa792cc99c68b68ff
+// =======
+// >>>>>>> 86508c42b2a74078f82283caa792cc99c68b68ff
 document.write("<br>")
 document.write("1." + Answer1)
 document.write("<br>")
@@ -60,21 +60,21 @@ document.write("2." + Answer2)
 document.write("<br>")
 document.write("3." + Answer3)
 document.write("<br>")
-<<<<<<< HEAD
-<<<<<<< HEAD
+// <<<<<<< HEAD
+// <<<<<<< HEAD
 document.write("<button type='button' onclick='Answer1_check()'>1</button>");
 document.write("<button type='button' onclick='Answer2_check()'>2</button>");
 document.write("<button type='button' onclick='Answer3_check()'>3</button>");
-=======
+//=======
 // document.write("<button type='button' onclick='Answer1_check()'>1</button>");
 // document.write("<button type='button' onclick='Answer2_check()'>2</button>");
 // document.write("<button type='button' onclick='Answer3_check()'>3</button>");
->>>>>>> 86508c42b2a74078f82283caa792cc99c68b68ff
-=======
+// >>>>>>> 86508c42b2a74078f82283caa792cc99c68b68ff
+// =======
 // document.write("<button type='button' onclick='Answer1_check()'>1</button>");
 // document.write("<button type='button' onclick='Answer2_check()'>2</button>");
 // document.write("<button type='button' onclick='Answer3_check()'>3</button>");
->>>>>>> 86508c42b2a74078f82283caa792cc99c68b68ff
+//>>>>>>> 86508c42b2a74078f82283caa792cc99c68b68ff
 document.write("<br>")
 let Answer;
 
@@ -82,13 +82,13 @@ let Answer;
 
 function Answer1_check() {
     Answer = Answer1;
-<<<<<<< HEAD
-<<<<<<< HEAD
-    //no = ++i;
-=======
->>>>>>> 86508c42b2a74078f82283caa792cc99c68b68ff
-=======
->>>>>>> 86508c42b2a74078f82283caa792cc99c68b68ff
+// <<<<<<< HEAD
+// <<<<<<< HEAD
+//     //no = ++i;
+// =======
+// >>>>>>> 86508c42b2a74078f82283caa792cc99c68b68ff
+// =======
+// >>>>>>> 86508c42b2a74078f82283caa792cc99c68b68ff
     Decision();
 }
 
@@ -106,19 +106,19 @@ function Decision() {
     if (Answer == CollectAnswer) {
         alert("正解!")
     } else {
-<<<<<<< HEAD
-<<<<<<< HEAD
+// <<<<<<< HEAD
+// <<<<<<< HEAD
         alert("不正解")
     }
 }
 // }
-=======
-        alert("不正解…")
-    }
-}
->>>>>>> 86508c42b2a74078f82283caa792cc99c68b68ff
-=======
-        alert("不正解…")
-    }
-}
->>>>>>> 86508c42b2a74078f82283caa792cc99c68b68ff
+// =======
+//         alert("不正解…")
+//     }
+// }
+// >>>>>>> 86508c42b2a74078f82283caa792cc99c68b68ff
+// // =======
+//         alert("不正解…")
+//     }
+// }
+// >>>>>>> 86508c42b2a74078f82283caa792cc99c68b68ff
